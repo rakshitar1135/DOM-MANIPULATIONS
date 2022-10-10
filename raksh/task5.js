@@ -11,3 +11,5 @@
 //li[i].style.backgroundColor='#f4f4f4';
 var header=document.querySelector('#main-header');
 header.style.borderBottom='solid 4px #ccc';
+var input=document.querySelector('input')
+input.value='HELLO WORLD'
