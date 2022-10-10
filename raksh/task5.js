@@ -13,3 +13,7 @@ var header=document.querySelector('#main-header');
 header.style.borderBottom='solid 4px #ccc';
 var input=document.querySelector('input')
 input.value='HELLO WORLD'
+var Submit=document.querySelector('input[type="submit"]');
+Submit.value="SEND";
+var item=document.querySelector('.list-group-item');
+item.style.color='red';
