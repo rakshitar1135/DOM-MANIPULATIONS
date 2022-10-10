@@ -1,1 +1,3 @@
-console.log(" rakshita GUD GRL1111")
+//console.dir(document);
+//console.dir(document);
+console.log(document.domain);
