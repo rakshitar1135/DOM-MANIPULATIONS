@@ -17,3 +17,7 @@ var Submit=document.querySelector('input[type="submit"]');
 Submit.value="SEND";
 var item=document.querySelector('.list-group-item');
 item.style.color='red';
+var Lastitem=document.querySelector('.list-group-item:last-Child')
+Lastitem.style.color='green';
+var seconditem=document.querySelector('.list-group-item:nth-child[2]')
+seconditem.style.color='coral';
